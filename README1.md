@@ -1,0 +1,6 @@
+# cfehome
+
+
+#### _Quick Links_
+
++ [CFE: Django_1.11](https://youtu.be/yDv5FIAeyoY "Django 1.11")
