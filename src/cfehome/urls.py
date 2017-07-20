@@ -1,4 +1,5 @@
 """cfehome URL Configuration
+
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/1.11/topics/http/urls/
 Examples:
@@ -19,13 +20,15 @@ from django.views.generic import TemplateView
 from restaurants.views import (
     restaurant_listview,
     RestaurantListView,
-    RestaurantDetailView
+    RestaurantDetailView,
+    restaurant_createview
 
 )
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'^$', TemplateView.as_view(template_name='home.html')),
     url(r'^restaurants/$', RestaurantListView.as_view()),
+    url(r'^restaurants/create/$', restaurant_createview),
     url(r'^restaurants/(?P<slug>[\w-]+)/$', RestaurantDetailView.as_view()),
     #url(r'^restaurants/asian/$', AsianFusionRestaurantListView.as_view()),
     url(r'^about/$', TemplateView.as_view(template_name='about.html')),
