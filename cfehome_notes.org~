@@ -1,0 +1,25 @@
+* org-mode structure
+
+Text in org is structured by headings, denoted by lines starting
+with one or more * so we are currently in a section?
+
+** A subheading
+
+Starts with an extra * and so on
+
+** navigation
+
+Headings can be expanded or collapsed by moving to the
+(sub)heading
+and pressing TAB. S-TAB cycles all headings.  You can 
+jump to next and
+previous headings with c-c c-n and c-c c-p
+respectively.
+
+You can move headings up and down to reorder with
+the arrow keys,
+using M-up or M-down.  You can change the level of
+headings with M-left
+and M-right (and use M-S-left and M-S-right to also
+change the levels
+of and subheadins).
