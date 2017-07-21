@@ -1,3 +1,5 @@
+* Tasks
+** TODO Start new org file for tutorial
 * org-mode blog (getting started creating notes)
 http://pragmaticemacs.com/emacs/org-mode-basics-structuring-your-notes/
 
