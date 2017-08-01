@@ -1,0 +1,17 @@
+# cfehome
+
+TUTORIAL TO LEARN DJANGO REPOSITORY
+
+* Learn by doing
+ Youtube tutorial for Django 1.11
+  - Follow along with the youtube tutorial
+  - Create comprehensive Org notes
+* Github Respository created
+  
+  [[https://github.com/cjledbetter/cfehome][Sample Django Tutorial - create blog]]
+
+* Quick Links
+
+  [[http:https://youtu.be/yDv5FIAeyoY][Django 1.11]]
+
+
