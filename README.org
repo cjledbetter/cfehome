@@ -12,6 +12,6 @@ TUTORIAL TO LEARN DJANGO REPOSITORY
 
 * Quick Links
 
-  [[http:https://youtu.be/yDv5FIAeyoY][Django 1.11]]
+  [[https://youtu.be/yDv5FIAeyoY][Django 1.11]]
 
 
