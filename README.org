@@ -1,6 +1,6 @@
 # cfehome
 
-TUTORIAL TO LEARN DJANGO REPOSITORY
+* TUTORIAL TO LEARN DJANGO REPOSITORY
 
 * Learn by doing
  Youtube tutorial for Django 1.11
